@@ -1,5 +1,5 @@
 import "./App.css";
-import UnlimitedScroller from "./UnlimitedScroller/UnlimitedScroller";
+import UnlimitedScroller from "./UnlimitedScroller/UnlimitedScroller2";
 
 function App() {
   return (
